@@ -1,0 +1,19 @@
+# Ignorar archivos de configuración sensible
+.env
+firebase.json
+serviceAccountKey.json
+
+# Ignorar carpetas de node_modules
+node_modules/
+
+# Ignorar archivos de logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignorar configuraciones de sistemas operativos
+.DS_Store
+Thumbs.db
+
+# Ignorar configuraciones de VSCode (si usas este editor)
+.vscode/
