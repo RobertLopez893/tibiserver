@@ -141,7 +141,8 @@ async function sendVerificationEmail(email) {
           <div class="text">
             Hola:<br><br>
             Gracias por registrarte en <strong>Tibibalance</strong>.<br>
-            Por favor confirma tu correo electrónico para empezar a usar la app.
+            Por favor confirma tu correo electrónico para empezar a usar la app. <br>
+            <strong>Recuerda que este correo expira en una hora, si es el caso, pide que se te vuelva a enviar a través de nuestra app.</strong>
           </div>
 
           <a href="${link}" class="button">Confirmar correo electrónico</a>
